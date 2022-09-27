@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXMuxPN9c0YoXjxHq/dGPI1jhS5sqGEgLNAvN3PeyOUseGN0REn2x511CJEmX8QN2U8Sksgx4lo3+QuqRTVcpg==",
+  "success": true,
+  "projectFilePath": "D:\\Dotnet_training\\WFM_DbContext\\WFM_DbContext\\WFM_DbContext.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shakthirm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
